@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "280e49ae6201b01b",
+        "id": "a208bfe0af7afa02",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "monitors.md",
+            "file": "keyboards.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "monitors.md",
+                "file": "keyboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "keyboards.md",
+    "monitors.md",
     "Untitled.md"
   ]
 }
