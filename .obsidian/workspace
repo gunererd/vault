@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "keyboards.md",
+            "file": "ports and adapters.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "keyboards.md",
+                "file": "ports and adapters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +86,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "keyboards.md",
     "monitors.md",
-    "Untitled.md",
     "system_design_insiders.md"
   ]
 }
