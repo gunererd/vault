@@ -1,5 +1,5 @@
-Homo economicus son derece rasyonel dusunebilen, kisisel cikarlarini dusunen ve hedeflerine en optimal sekilde ulasan dusunsel bir varliktir.
+Homo economicus son derece rasyonel dusunebilen, kisisel cikarlarini dusunen ve hedeflerine son derece optimal sekilde ulasan dusunsel bir varliktir.
 
 Ekonomi teorilerinde ve pedagojide kullanilir.
 
-Homo sapiens
+Isim Homo sapiensten turetilmistir.
