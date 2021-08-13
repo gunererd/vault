@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ports and adapters.md",
+            "file": "Homo economicus.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ports and adapters.md",
+                "file": "Homo economicus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "a208bfe0af7afa02",
   "lastOpenFiles": [
+    "Untitled.md",
     "ports and adapters.md",
     "system_design_insiders.md",
     "keyboards.md",
     "monitors.md",
     "dart.md",
-    "flutter.md",
-    "Untitled.md"
+    "flutter.md"
   ]
 }
