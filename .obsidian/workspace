@@ -7,8 +7,11 @@
         "id": "a208bfe0af7afa02",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "system_design_insiders.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "system_design_insiders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,12 +88,12 @@
   },
   "active": "a208bfe0af7afa02",
   "lastOpenFiles": [
+    "system_design_insiders.md",
+    "ports and adapters.md",
+    "keyboards.md",
+    "monitors.md",
     "dart.md",
     "flutter.md",
-    "ports and adapters.md",
-    "system_design_insiders.md",
-    "Untitled.md",
-    "keyboards.md",
-    "monitors.md"
+    "Untitled.md"
   ]
 }

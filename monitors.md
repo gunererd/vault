@@ -1,1 +1,0 @@
-monitors are beautiful creatures
