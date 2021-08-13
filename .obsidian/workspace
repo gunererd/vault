@@ -6,13 +6,9 @@
       {
         "id": "a208bfe0af7afa02",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "dart.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,10 +65,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,6 +82,7 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "a208bfe0af7afa02",
   "lastOpenFiles": [
     "dart.md",
     "flutter.md",
