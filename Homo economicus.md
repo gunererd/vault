@@ -2,4 +2,4 @@ Homo economicus son derece rasyonel dusunebilen, kisisel cikarlarini dusunen ve 
 
 Ekonomi teorilerinde ve pedagojide kullanilir.
 
-Isim Homo sapiensten turetilmistir.
+Isim [[Homo sapiens]] turetilmistir.

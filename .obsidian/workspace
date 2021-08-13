@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homo economicus.md",
+            "file": "Homo sapiens.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homo economicus.md",
+                "file": "Homo sapiens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,9 @@
   },
   "active": "a208bfe0af7afa02",
   "lastOpenFiles": [
+    "Homo sapiens.md",
+    "Homo economicus.md",
+    "Homo sapiensten.md",
     "Untitled.md",
     "ports and adapters.md",
     "system_design_insiders.md",
