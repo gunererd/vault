@@ -1,1 +1,1 @@
-Homo economicus son derece rasyonel dusunebilen, kisisel cikarlarini dusunen ve objektif bir bicimde tanimlanmis hedeflerine en optimal bicimde ula
+Homo economicus son derece rasyonel dusunebilen, kisisel cikarlarini dusunen ve hedeflerine en optimal sekilde ulasan bir
