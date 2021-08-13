@@ -1,0 +1,1 @@
+Homo economicus son derece rasyonel dusunebilen ve kisiel
